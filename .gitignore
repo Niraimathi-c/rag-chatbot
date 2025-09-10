@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+myvenv/
+
+# Ignore environment files
+.env
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if frontend added)
+frontend/node_modules/
